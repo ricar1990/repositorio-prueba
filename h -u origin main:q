@@ -1,0 +1,11 @@
+user.name=ricar1990
+user.email=100078933r@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origen.url=git@github.com:ricar1990/repositorio-prueba.git
+remote.origen.fetch=+refs/heads/*:refs/remotes/origen/*
+remote.origin.url=git@github.com:ricar1990/repositorio-prueba.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
